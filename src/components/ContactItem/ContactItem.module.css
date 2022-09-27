@@ -1,0 +1,12 @@
+.item {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  gap: 10px;
+}
+
+.button {
+  background-color: transparent;
+  border-radius: 20%;
+  height: 30px;
+}
